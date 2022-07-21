@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+Nội dung bài tập thực hành:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hãy làm các bài lab theo link dưới đây và đảm bảo rằng bạn sẽ không xoá repositories cho đến khi kết thúc môn học. Lưu kết quả bài Lab trên Githup. Riêng ở Lab 01 này có các mục 1,2,4 hãy chụp ảnh kết quả cuối cùng và lưu lại.
+Để việc thực hành dễ dàng hơn, bạn có thể tham khảo sử dụng các extension sau cho VSCode: Prettier, ESLint, ES6 Code Snippet, Git Graph (xem SourceTree biểu đồ nhánh code, lịch sử commit).
 
-## Available Scripts
+Học viên vào link Video trên Coursera để xem chi tiết yêu cầu của bài lab, bản dịch đính kèm chỉ hỗ trợ dịch text.
+1.
+Lab (Video): Cài đặt Git https://www.coursera.org/learn/front-end-react/lecture/JSubl/exercise-video-setting-up-git
+Lab (Tài liệu hướng dẫn): Cài đặt Git https://www.coursera.org/learn/front-end-react/supplement/XjQZl/exercise-instructions-setting-up-git
 
-In the project directory, you can run:
+2.
+Lab (Video): Câu lệnh Git cơ bản nhất định phải nhớ https://www.coursera.org/learn/front-end-react/lecture/p9SAu/exercise-video-basic-git-commands
+Lab (Tài liệu hướng dẫn): Câu lệnh Git cơ bản nhất định phải nhớ https://www.coursera.org/learn/front-end-react/supplement/nkOQi/exercise-instructions-basic-git-commands
 
-### `npm start`
+3.
+Lab (Video): Online Git Repositories, hãy đăng ký để nộp bài lab https://www.coursera.org/learn/front-end-react/lecture/P0WCP/exercise-video-online-git-repositories
+Lab (Tài liệu hướng dẫn): Online Git Repositories, hãy đăng ký để nộp bài lab  https://www.coursera.org/learn/front-end-react/supplement/km6NK/exercise-instructions-online-git-repositories
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4.
+Lab (Video): Cài đặt Node.js và NPM https://www.coursera.org/learn/front-end-react/lecture/mSnXh/exercise-video-setting-up-node-js-and-npm
+Lab (Tài liệu hướng dẫn): Cài đặt Node.js và NPM https://www.coursera.org/learn/front-end-react/supplement/k38eB/exercise-instructions-setting-up-node-js-and-npm
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+5.
+Lab (Video): Cơ bản về Node.js and NPM https://www.coursera.org/learn/front-end-react/lecture/2JDSF/exercise-video-basics-of-node-js-and-npm
+Lab (Tài liệu hướng dẫn): Cơ bản về Node.js and NPM  https://www.coursera.org/learn/front-end-react/supplement/NSs0u/exercise-instructions-basics-of-node-js-and-npm
 
-### `npm test`
+Để tránh tạo quá nhiều repositories không cần thiết, bạn hãy xem video dưới đây và tạo mỗi bài lab, bài ASM một Branch:
+https://youtu.be/-Q-9HMvhdz4 (hoặc xem ở dưới)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Lưu ý: Hãy để repository của bạn là public cho đến khi review lab xong.
+Đặt tên bài lab ở Github theo quy định sau: LAB+number_subnumber hoặc ASM+number. Ví dụ: LAB01_1, ASM1
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thời lượng làm bài dự kiến: 150 phút
